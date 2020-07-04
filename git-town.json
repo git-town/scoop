@@ -1,13 +1,15 @@
 {
-  "version": "7.4.0",
-  "architecture": {
-    "64bit": {
-      "url": "https://github.com/git-town/git-town/releases/download/v7.4.0/git-town_7.4.0_windows_intel_64.zip",
-      "bin": ["git-town.exe"],
-      "hash": "17fa5b3fc5f21582433db60856a5efff4203e78b15dcec11b0ce16278c8b4d6e"
-    }
-  },
-  "homepage": "https://www.git-town.com",
-  "license": "MIT",
-  "description": "High-level CLI for Git"
+    "version": "7.4.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/git-town/git-town/releases/download/v7.4.0/git-town_7.4.0_windows_intel_64.zip",
+            "bin": [
+                "git-town.exe"
+            ],
+            "hash": "30f1cdbaa221afd98cae8675c9ec4b6ee629dd4f0f60c37e3f1b84300c2070a4"
+        }
+    },
+    "homepage": "https://www.git-town.com",
+    "license": "MIT",
+    "description": "High-level CLI for Git"
 }
