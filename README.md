@@ -1,3 +1,3 @@
-# scoop
+# Git Town Scoop Formula
 
-Scoop formula for Git Town
+This repository contains the Scoop formula for Git Town.
